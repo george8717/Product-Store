@@ -1,7 +1,9 @@
  A Basic web app which  allows users to view, add, edit, and delete products .
  Tech Stack: React.js, Chakra UI, Zustand (state management), Node.js, Express.js, 
 MongoDB, RESTful API, Vite 
+
 Highlights:
+
  a)Developed a full-stack CRUD web application to manage product details efficiently.
  
  b)Implemented global state management using Zustand for smooth data flow.
